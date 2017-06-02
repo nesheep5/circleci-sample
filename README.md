@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/nesheep5/circleci-sample.svg?style=svg)](https://circleci.com/gh/nesheep5/circleci-sample)
 # circleci-sample
 CircleCIを色々試すリポジトリ。
 
